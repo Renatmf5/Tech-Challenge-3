@@ -1,3 +1,7 @@
+## Acesso a Plataforma Web do projeto.
+
+- [Plataforma Web do projeto](https://app.grupo-ever-rmf.com/)
+
 ## Estrutura Técnica
 
 A seguir, detalhamos os 5 repositórios que compõem a estrutura do projeto.
